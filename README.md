@@ -17,12 +17,14 @@ Is the slope of the linear model considered to be zero? Why or why not?
 Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 
 
+| Suspension Coil PSI | Suspension Coil PSI by lots |
+| --------------------- | --------------------------------- |
+|![](https://github.com/Mikeblanchard/MechaCar_Statistical_Analysis/blob/main/Resources/t.test_challenge4.png)|![](https://github.com/Mikeblanchard/MechaCar_Statistical_Analysis/blob/main/Resources/t.test_challenge3.png)|
+
+
 ![](https://github.com/Mikeblanchard/MechaCar_Statistical_Analysis/blob/main/Resources/t.test_challenge.png)
 
 ![](https://github.com/Mikeblanchard/MechaCar_Statistical_Analysis/blob/main/Resources/t.test_challenge2.png)
 
 
-| Suspension Coil's PSI | Suspension Coil's PSI of the lots |
-| --------------------- | --------------------------------- |
-|![](https://github.com/Mikeblanchard/MechaCar_Statistical_Analysis/blob/main/Resources/t.test_challenge4.png)|![](https://github.com/Mikeblanchard/MechaCar_Statistical_Analysis/blob/main/Resources/t.test_challenge3.png)|
 
