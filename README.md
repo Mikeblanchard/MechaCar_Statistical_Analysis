@@ -25,28 +25,20 @@ Lot 1 and Lot 2 are both within design specifications and have very similar mean
 
 ![](https://github.com/Mikeblanchard/MechaCar_Statistical_Analysis/blob/main/Resources/t.test_challenge2.png)
 
-At a significance level of 0.05, we fail to reject the null hypothesis since the p-value equals 0.06. Therefore, we cannot reject the fact that the sample mean may be equivalent to the true population mean. 
+At a significance level of 0.05, we fail to reject the null hypothesis since the p-value equals 0.06. Therefore, we cannot reject the fact that the sample mean may be equivalent to the population mean. 
 
 ![](https://github.com/Mikeblanchard/MechaCar_Statistical_Analysis/blob/main/Resources/t.test_challenge.png)
 
 #### Lot 1 
-At a significance level of 0.05, we fail to reject the null hypothesis since the p-value equals 1. An interesting correlation between p-value and confidence intervals is that as the p-values get larger, the confidence interval becomes smaller, implying more precision in predicting the true population mean.
+With a p value of 1, we do not reject the null hypothesis. Lot 1 also has a small confidence interval. 
 
 #### Lot 2
-At a significance level of 0.05, we fail to reject the null hypthesis again since the p-value equals 0.6072. The second lot also has a relatively small confidence interval.
+With a p-value of 0.6072, we again do not reject the null hypthesis. The second lot also has a small confidence interval.
 
 #### Lot 3
-At a significance level of 0.05, we can reject the null hypothesis since the p-value equals 0.04168. The mean of this sample is also significantly smaller in comparison to the previous two lots. More importantly, unlike the previous two lots, the confidence interval for the third lot does not include the predicted population mean.
+With a p-value of 0.04168, we can reject the null hypothesis. We also notice that the mean of this sample is smaller than the other two. 
 
 ## Study Design: MechaCar vs. Competition
 
-Another statistical study that can be performed to determine MechaCar's standing against its competition is a linear regression on city and highway fuel efficiency. Gasoline is expensive nowadays, and it is an important feature that many consumers look at when purchasing a new car. The metrics that can be included in this analysis are:
-
-- City and highway fuel efficiency: dependent variable
-- Horse power: independent variable
-- Vehicle weight: independent variable
-- AWD capabilities: independent variable
-- MPG: independent variable in addition to the MPG, AWD, and vehicle weight data that we already have, we would have to collect fuel efficiency and horse power data for the sample data set at hand.
-
-
+In addition to this, we would like to see a linear regression model run on both city and highway driving. We feel like this is a growing concern with the electric car revolution happening right now. Factors to consider are city and highway fuel efficiency as an dependent variable, horsepower as an independent variable and vehicle weight as an independent variable. 
 
