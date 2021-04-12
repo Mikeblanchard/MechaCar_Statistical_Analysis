@@ -5,7 +5,6 @@
 
 
 ## Linear Regression to Predict MPG
-
 ![](https://github.com/Mikeblanchard/MechaCar_Statistical_Analysis/blob/main/Resources/Linear_Regression_to_Predict_MPG.png)
 
 
