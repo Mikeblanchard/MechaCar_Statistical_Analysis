@@ -21,6 +21,7 @@ A link to the R Script [found here](https://github.com/Mikeblanchard/MechaCar_St
 | --------------------- | --------------------------------- |
 |![](https://github.com/Mikeblanchard/MechaCar_Statistical_Analysis/blob/main/Resources/t.test_challenge4.png)|![](https://github.com/Mikeblanchard/MechaCar_Statistical_Analysis/blob/main/Resources/t.test_challenge3.png)|
 
+Lot 1 and Lot 2 are both within design specifications and have hnearly the same exact mean and median. Lot 3 shows the most variance and exceeds the manufacturers specs.
 
 ![](https://github.com/Mikeblanchard/MechaCar_Statistical_Analysis/blob/main/Resources/t.test_challenge.png)
 
