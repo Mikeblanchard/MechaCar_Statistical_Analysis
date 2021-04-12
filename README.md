@@ -4,6 +4,8 @@
 
 The purposse of this analysis was to use statistical methods to look at vehicle performance, with the intent of designing an efficient prototype. Special consideration was paid to vehicle length, weight, spoiler angle, ground clearance, All Wheel Drive capabilities, Miles per Gallon of gas consumption and Pounds per Square Inch of suspension coil pressure. 
 
+A link to the R Script [found here](https://github.com/Mikeblanchard/MechaCar_Statistical_Analysis/blob/main/MechaCarChallenge.R)
+
 ## Linear Regression to Predict MPG
 ![](https://github.com/Mikeblanchard/MechaCar_Statistical_Analysis/blob/main/Resources/Linear_Regression_to_Predict_MPG.png)
 
