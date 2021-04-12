@@ -8,11 +8,9 @@ The purposse of this analysis was to use statistical methods to look at vehicle 
 ![](https://github.com/Mikeblanchard/MechaCar_Statistical_Analysis/blob/main/Resources/Linear_Regression_to_Predict_MPG.png)
 
 - As non-random variables have a variance of 0, we can determine that the intercept, vehicle length and ground clearance are non-random 
+- the slope is not 0, because  
+- The R-squared value is 71%, which means roughly ~71% of the time the model will predict mpg values correctly. There are probably other factors that were not captured in the datasaet that contribute to the mpg variability of the MechaCar prototypes.
 
-
-Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
-Is the slope of the linear model considered to be zero? Why or why not?
-Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 
 
 
